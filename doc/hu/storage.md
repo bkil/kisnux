@@ -33,21 +33,20 @@
 
 ## Fájlrendszerek
 
-* advanced: read-only squashfs root (zstd**, lz4++, xz, gzip, lzo) + ext4 vagy btrfs overlay (lzo++, zstd**, zlib) frissítéseknek (lásd: Puppy Linux), sokat gyorsíthat
-* https://forums.gentoo.org/viewtopic-t-646289-highlight-aufs+squashfs.html
-* https://elinux.org/Squash_Fs_Comparisons
-* https://quixdb.github.io/squash-benchmark/unstable/
-* https://en.wikipedia.org/wiki/Zopfli Ha elbírja a gép a gzipet, ezzel lehet, hogy lehet további helyet megtakarítani
+* advanced: read-only squashfs root (zstd`**`, lz4++, xz, gzip, lzo) + ext4 vagy btrfs overlay (lzo++, zstd`**`, zlib) frissítéseknek (lásd: Puppy Linux), sokat gyorsíthat
+  * https://forums.gentoo.org/viewtopic-t-646289-highlight-aufs+squashfs.html
+  * https://elinux.org/Squash_Fs_Comparisons
+  * https://quixdb.github.io/squash-benchmark/unstable/
+  * https://en.wikipedia.org/wiki/Zopfli Ha elbírja a gép a gzip kitömörítést, ezzel lehetne további root helyet megtakarítani
 * Ha ezt be lehetne küldeni a kernelbe, +10% gzip sebességet nyernénk:
-* https://github.com/emmanuel-marty/em_inflate
-* https://tech.marksblogg.com/faster-zip-decompression-unzip-deflate-zlib-crc32-adler32-7zip-archiver.html
-* https://github.com/ebiggers/libdeflate
-* https://github.com/zlib-ng/zlib-ng
+  * https://github.com/emmanuel-marty/em_inflate
+  * https://tech.marksblogg.com/faster-zip-decompression-unzip-deflate-zlib-crc32-adler32-7zip-archiver.html
+  * https://github.com/ebiggers/libdeflate
+  * https://github.com/zlib-ng/zlib-ng
 * mksquashfs sort opcióval lehet sorba rakni a fájlokat használat szerint
-* Kapcsolódó https://github.com/AppImage/AppImageKit
+  * Kapcsolódó https://github.com/AppImage/AppImageKit
 * btrfs
-*  @notramo https://bcachefs.org/ (elvileg gyorsabb, mint a btrfs, de még beta, nem ajánlott, de érdemes figyelemmel követni)
-* block méretet érdemes kicsit megnövelni az alap 4kB-ról, hogy kevesebb CPU-t és I/O sávot vegyen el a feldolgozás és egy picit csökkentse a fragmentáció lehetőségét (nagyon megnövelve a sok üres hely okozta hatékonyság csökkenés miatt romlik a sáv kihasználása)
+  * block méretet érdemes kicsit megnövelni az alap 4kB-ról, hogy kevesebb CPU-t és I/O sávot vegyen el a feldolgozás és egy picit csökkentse a fragmentáció lehetőségét (nagyon megnövelve a sok üres hely okozta hatékonyság csökkenés miatt romlik a sáv kihasználása)
 
 ## Preload
 
