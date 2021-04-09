@@ -21,13 +21,13 @@
   * https://www.facebook.com/ubuntuhu/ (12K követőnk van)
   * https://help.ubuntu.com/stable/ubuntu-help/index.html.hu
 * @bkil (+a legtöbbünk)
-* @Meskó Balázs: ezen belül csak a Xubuntu
+* @meskobalazs: ezen belül csak a Xubuntu
 
 ## Linux Mint + Cinnamon
 
 * +Magyar közösség
   * https://linuxmint.hu/
-* @Úr Balázs?
+* @urbalazs?
 
 ## Void Linux (runit, musl)
 

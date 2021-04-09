@@ -15,11 +15,11 @@
 * +Magyarítás 90-95%
 * -Nem sokkal kevesebb RAM-ot eszik mint a GNOME
 * @grin, @crafterix
-* @Meskó Balázs: támogatja az erősebb gépen és a magyarításban is szívesen segít
+* @meskobalazs: támogatja az erősebb gépen és a magyarításban is szívesen segít
 
 ## GNOME
 
-* +Etalon magyarításban: @Úr Balázs és @Meskó Balázs is részt vesz benne (de nem ajánlják kis gépre)
+* +Etalon magyarításban: @urbalazs és @meskobalazs is részt vesz benne (de nem ajánlják kis gépre)
 * +sok extension elérhető hozzá
 * -Sok RAM-ot eszik
 
