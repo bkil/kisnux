@@ -22,6 +22,9 @@
   * https://hup.hu/Ubuntu
   * https://www.facebook.com/ubuntuhu/ (12K követőnk van)
   * https://help.ubuntu.com/stable/ubuntu-help/index.html.hu
+  * http://sugo.ubuntu.hu/
+  * https://lists.ubuntu.com/mailman/listinfo/ubuntu-hu
+  * https://wiki.ubuntu.com/UbuntuMagazine/TranslateFullCircle/Hungarian
 * @bkil (+a legtöbbünk)
 * @meskobalazs: ezen belül csak a Xubuntu
 
