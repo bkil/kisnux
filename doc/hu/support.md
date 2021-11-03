@@ -21,3 +21,4 @@
 * https://www.facebook.com/FSF.hu
 * https://hup.hu/
 * https://skamilinux.hu/phpBB3/
+* https://groups.google.com/g/hun.lists.mlf.linux-kezdo
