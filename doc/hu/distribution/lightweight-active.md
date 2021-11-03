@@ -10,6 +10,11 @@
 * -Sok alkalmazása nagyon kompromisszumos funkcionalitásban
 * -Nem generálnak automatikusan frissítést pedig nem volna lehetetlen - Ubuntu Bionic repóból is tud építkezni
 
+## mxlinux
+
+* https://mxlinux.org/
+* XFCE, KDE, Fluxbox
+
 ## Linux Lite
 
 * Xfce + kezdőknek szóló GUI-k
