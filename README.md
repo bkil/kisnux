@@ -4,4 +4,4 @@ Ingyenesség közeli, 15-20 éves hardvereken használható Linux környezet kö
 
 Ez a dokumentum a következő szobához kapcsolódó jegyzet:
 
-* https://matrix.grin.hu/#/room/#szamitogepes-irastudas:grin.hu
+* https://matrix.to/#/#szamitogepes-irastudas:grin.hu

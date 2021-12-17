@@ -13,6 +13,7 @@
 * https://skamilinux.hu/ Puppy Linux fókusszal, videók, letöltések, hírek, linkgyűjtemény
 * https://hu.wikibooks.org/wiki/Linux/Linux_alapok
 * https://manpages.ubuntu.com/manpages/hirsute/hu/
+* https://youtube.com/c/LinuxMind
 
 ## Disztribúció független magyar közösségek
 
