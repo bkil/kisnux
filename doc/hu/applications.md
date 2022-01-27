@@ -134,13 +134,20 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 * https://en.wikipedia.org/wiki/Pale_Moon_(web_browser)
 * https://en.wikipedia.org/wiki/Basilisk_(web_browser)
 
-#### Alternatív böngészők
+#### NetSurf
 
 * https://en.wikipedia.org/wiki/NetSurf
-  - Független, teljes értékű lehet, de egyes képességeinek a kompatibilitását ellenőriznünk kell
-  - GTK és Linux Framebuffer támogatás
-  - Régi változatokban takarékos JavaScript interpreter: https://duktape.org/
-  - Új verziókban SpiderMonkey
+  * Független, teljes értékű lehet, de egyes képességeinek a kompatibilitását ellenőriznünk kell
+  * GTK és Linux Framebuffer támogatás
+  * Régi változatokban takarékos JavaScript interpreter: https://duktape.org/
+  * Új verziókban SpiderMonkey
+
+#### SerenityOS LibWeb
+
+* https://en.wikipedia.org/wiki/SerenityOS
+  * https://github.com/SerenityOS/serenity/tree/master/Userland/Applications/Browser
+  * https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibWeb
+* még nincs portolva Linuxra
 
 #### Kompromisszumos grafikus böngészők
 
@@ -281,6 +288,7 @@ Akár saját célra.
 
 * Abiword (TODO: teszt)
 * LibreOffice Writer: hatalmas, érettségi
+  * https://em.wikipedia.org/wiki/Apache_OpenOffice
 * https://en.wikipedia.org/wiki/Calligra_Words
 * https://en.wikipedia.org/wiki/GNU_TeXmacs
 * https://en.wikipedia.org/wiki/LyX
