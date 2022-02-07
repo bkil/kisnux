@@ -41,6 +41,7 @@ Főleg szórakoztató célra, lásd még:
 ## Videók
 
 * https://en.wikipedia.org/wiki/List_of_educational_video_websites
+* https://cs50.harvard.edu/web/2020/
 
 Lásd még:
 
