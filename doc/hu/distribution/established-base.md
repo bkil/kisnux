@@ -27,6 +27,7 @@
   * https://lists.ubuntu.com/mailman/listinfo/ubuntu-hu
   * https://wiki.ubuntu.com/UbuntuMagazine/TranslateFullCircle/Hungarian
     * https://fullcircle.hu/
+  * https://web.archive.org/web/2021*/wiki.ubuntu.hu
   * https://sg.hu/forum/tema/1104803501
 * @bkil (+a legtöbbünk)
 * @meskobalazs: ezen belül csak a Xubuntu
