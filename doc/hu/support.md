@@ -14,6 +14,8 @@
 * https://hu.wikibooks.org/wiki/Linux/Linux_alapok
 * https://manpages.ubuntu.com/manpages/hirsute/hu/
 * https://youtube.com/c/LinuxMind
+* https://magyarlinux.hu/ Arch Linux az alapvetés, de főleg általános leírások
+  * https://magyarchlinux.org/
 
 ## Disztribúció független magyar közösségek
 
