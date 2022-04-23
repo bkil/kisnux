@@ -157,6 +157,8 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
   - TODO Javascript/CSS bár egyes klónokban elkezdték régen
 * https://github.com/ekapujiw2002/kweb
   - régen nincs frissítve
+* hv3: CSS és opcionális régebbi JavaScript támogatással
+  - https://packages.debian.org/bullseye/hv3
 * TODO: Szerver oldali rendering
   * https://gitlab.com/bkil/freedom-fighters/-/blob/master/hu/server/optimizing-web-proxy.md#szabad-proxy-p%C3%A9ld%C3%A1k
 
