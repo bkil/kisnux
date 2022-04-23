@@ -86,7 +86,7 @@ Nem számottevő részük már lehet, hogy magyarítva van.
 * https://en.wikipedia.org/wiki/Saylor_Academy
 * https://en.wikipedia.org/wiki/WikiToLearn
 
-### Wiki-k
+### Wiki
 
 Tipikusan rendelkeznek kötegelt exportálás funkcióval is.
 
@@ -124,3 +124,7 @@ Lásd még:
 
 * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 * https://github.com/EbookFoundation/free-programming-books
+
+Algoritmusok nem-verbális oktatása:
+
+* https://idea-instructions.com/
