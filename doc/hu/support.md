@@ -16,6 +16,7 @@
 * https://youtube.com/c/LinuxMind
 * https://magyarlinux.hu/ Arch Linux az alapvetés, de főleg általános leírások
   * https://magyarchlinux.org/
+* https://infoalap.hu/letoltesek/
 
 ## Disztribúció független magyar közösségek
 
@@ -25,3 +26,4 @@
 * https://hup.hu/
 * https://skamilinux.hu/phpBB3/
 * https://groups.google.com/g/hun.lists.mlf.linux-kezdo
+* http://infoalap.eu/illik.html
