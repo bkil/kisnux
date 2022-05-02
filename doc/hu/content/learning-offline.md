@@ -124,6 +124,11 @@ Lásd még:
 
 * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 * https://github.com/EbookFoundation/free-programming-books
+* https://github.com/zealdocs/zeal/wiki/Third-Party-Resources
+* https://kapeli.com/docsets
+* https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets
+* https://kapeli.com/cheatsheets
+* https://github.com/Kapeli/cheatsheets/tree/master/cheatsheets
 
 Algoritmusok nem-verbális oktatása:
 
