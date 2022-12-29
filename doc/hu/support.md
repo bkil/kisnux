@@ -21,6 +21,7 @@
 ## Disztribúció független magyar közösségek
 
 * https://www.linuxforum.hu/
+* https://matrix.to/#/#freedom-fighters-hu:matrix.org
 * https://matrix.to/#/#linuxkezdok:grin.hu
 * https://www.facebook.com/FSF.hu
 * https://hup.hu/

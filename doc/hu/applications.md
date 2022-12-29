@@ -147,7 +147,8 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 * https://en.wikipedia.org/wiki/SerenityOS
   * https://github.com/SerenityOS/serenity/tree/master/Userland/Applications/Browser
   * https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibWeb
-* még nincs portolva Linuxra
+* https://github.com/SerenityOS/ladybird
+  * https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
 
 #### Kompromisszumos grafikus böngészők
 
