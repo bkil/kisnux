@@ -17,6 +17,7 @@ Különféle licencű könyvek, tipikusan "szabadon másolható, de csak saját 
 
 * http://www.mek.iif.hu/
 * http://mek.oszk.hu/
+* https://budaorskonyvtar.hu/elektronikus-konyvtar/
 
 ## Kiwix
 
