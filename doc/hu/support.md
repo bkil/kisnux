@@ -28,3 +28,7 @@
 * https://skamilinux.hu/phpBB3/
 * https://groups.google.com/g/hun.lists.mlf.linux-kezdo
 * http://infoalap.eu/illik.html
+
+## Disztribúciók
+
+* http://lists.ubk.hu/
