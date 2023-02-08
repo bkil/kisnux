@@ -173,7 +173,7 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 * https://github.com/ekapujiw2002/kweb
   - régen nincs frissítve
 * https://en.wikipedia.org/wiki/Midori_(web_browser)
- - `apt install midori`
+  - `apt install midori`
 
 #### Weboldalak reprezentatívan
 
