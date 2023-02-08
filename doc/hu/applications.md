@@ -95,52 +95,59 @@ Szempontok:
 
 * https://en.wikipedia.org/wiki/Chromium_(web_browser)
   - `apt install chromium-browser`
-* https://en.wikipedia.org/wiki/Microsoft_Edge#Anaheim_(2019%E2%80%93present)
-* https://en.wikipedia.org/wiki/Epic_(web_browser)
+* https://en.wikipedia.org/wiki/Dooble
+  - QtWebEngine
+* https://en.wikipedia.org/wiki/Microsoft_Edge#New_Edge_(2019%E2%80%93present)
 * KDE: https://en.wikipedia.org/wiki/Falkon
   - `apt install falkon`
+* KDE: https://en.wikipedia.org/wiki/Konqueror
+  - `apt install konqueror`
+  - alapból Blink (QtWebEngine), de WebKit2 (QtWebKit) bővítmény is elérhető
+  - https://github.com/KDE/kwebkitpart
 * https://en.wikipedia.org/wiki/Otter_Browser
-* https://en.wikipedia.org/wiki/SRWare_Iron
+  - Blink (QtWebEngine) és WebKit (QtWebKit) választható
 * https://en.wikipedia.org/wiki/Qutebrowser
-  - Radikális, billentyűzetes az interfész, de tud WebKitet is
+  - Radikális, billentyűzetes az interfész
   - `apt install qutebrowser`
+  - alapból Blink (QtWebEngine), de WebKit2 (libqt5webkit5) változat is elérhető: `qutebrowser-qtwebkit`
+* https://en.wikipedia.org/wiki/SRWare_Iron
 
 #### WebKit alapú
 
-* https://en.wikipedia.org/wiki/Dooble
 * https://en.wikipedia.org/wiki/GNOME_Web
   - `apt install epiphany-browser`
-* KDE: https://en.wikipedia.org/wiki/Konqueror
-  - `apt install konqueror`
-* https://en.wikipedia.org/wiki/Midori_(web_browser)
- - `apt install midori`
+  - libwebkit2gtk
 * https://en.wikipedia.org/wiki/Surf_(web_browser)
   - Kicsit szokatlan, billentyűzetes a vezérlése
   - `apt install surf`
+  - libwebkit2gtk
 
 #### Gecko alapú
 
 * https://en.wikipedia.org/wiki/Firefox
   - `apt install firefox`
 * https://en.wikipedia.org/wiki/GNU_IceCat
-* https://en.wikipedia.org/wiki/Conkeror
-  - Nincs frissítve és radikális, billentyűzetes az interfésze
 * https://en.wikipedia.org/wiki/SeaMonkey
+* https://en.wikipedia.org/wiki/Waterfox
 
 #### Goanna
 
 Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 
+* https://en.wikipedia.org/wiki/Conkeror
+  - Radikális, billentyűzetes az interfésze. Frissítendő Pale Moon-hoz.
+* https://en.wikipedia.org/wiki/Pale_Moon_(web_browser)#Basilisk_browser
 * https://en.wikipedia.org/wiki/Pale_Moon_(web_browser)
-* https://en.wikipedia.org/wiki/Basilisk_(web_browser)
 
 #### NetSurf
 
 * https://en.wikipedia.org/wiki/NetSurf
   * Független, teljes értékű lehet, de egyes képességeinek a kompatibilitását ellenőriznünk kell
   * GTK és Linux Framebuffer támogatás
-  * Régi változatokban takarékos JavaScript interpreter: https://duktape.org/
-  * Új verziókban SpiderMonkey
+  * Bizonyos verziókban kísérleteztek SpiderMonkey bekötésével
+  * Egyes változatokban takarékos JavaScript interpreter:
+  * https://duktape.org/
+  * https://kangax.github.io/compat-table/es6/
 
 #### SerenityOS LibWeb
 
@@ -154,14 +161,19 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 
 * Dillo
   - már nem fejlesztik, és fejlesztendő a Javascript/CSS
-* `Links2 -g`
-  - TODO Javascript/CSS bár egyes klónokban elkezdték régen
-* https://github.com/ekapujiw2002/kweb
-  - régen nincs frissítve
-* hv3: CSS és opcionális régebbi JavaScript támogatással
+* `links2 -g`
+  - TODO Javascript/CSS bár egyes klónokban elkezdték régen és ebben is volt Netscape 1.1
+* hv3: CSS (2008) és opcionális régebbi JavaScript (ES3, 2009) támogatással
   - https://packages.debian.org/bullseye/hv3
 * TODO: Szerver oldali rendering
   * https://gitlab.com/bkil/freedom-fighters/-/blob/master/hu/server/optimizing-web-proxy.md#szabad-proxy-p%C3%A9ld%C3%A1k
+
+#### Elévült böngészők
+
+* https://github.com/ekapujiw2002/kweb
+  - régen nincs frissítve
+* https://en.wikipedia.org/wiki/Midori_(web_browser)
+ - `apt install midori`
 
 #### Weboldalak reprezentatívan
 
