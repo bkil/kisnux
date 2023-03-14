@@ -122,6 +122,11 @@ Szempontok:
   - `apt install surf`
   - libwebkit2gtk
 
+#### KHTML alapú
+
+* https://github.com/KDE/khtml
+  - Ubuntu Focal és Debian Buster kiadásokig a Konqueror is ezt hasztálta
+
 #### Gecko alapú
 
 * https://en.wikipedia.org/wiki/Firefox
@@ -165,6 +170,9 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
   - TODO Javascript/CSS bár egyes klónokban elkezdték régen és ebben is volt Netscape 1.1
 * hv3: CSS (2008) és opcionális régebbi JavaScript (ES3, 2009) támogatással
   - https://packages.debian.org/bullseye/hv3
+* https://github.com/CMB/edbrowse
+  - szöveges, DukTape JavaScript
+  - `apt install edbrowse`
 * TODO: Szerver oldali rendering
   * https://gitlab.com/bkil/freedom-fighters/-/blob/master/hu/server/optimizing-web-proxy.md#szabad-proxy-p%C3%A9ld%C3%A1k
 
