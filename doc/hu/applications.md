@@ -159,7 +159,7 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 * https://en.wikipedia.org/wiki/SerenityOS
   * https://github.com/SerenityOS/serenity/tree/master/Userland/Applications/Browser
   * https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibWeb
-* https://github.com/SerenityOS/ladybird
+* https://github.com/SerenityOS/serenity/tree/master/Ladybird
   * https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
 
 #### Kompromisszumos grafikus böngészők
@@ -171,8 +171,9 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 * hv3: CSS (2008) és opcionális régebbi JavaScript (ES3, 2009) támogatással
   - https://packages.debian.org/bullseye/hv3
 * https://github.com/CMB/edbrowse
-  - szöveges, DukTape JavaScript
+  - szöveges, régen DukTape JavaScript, újabban QuickJS
   - `apt install edbrowse`
+* https://github.com/alandipert/ncsa-mosaic
 * TODO: Szerver oldali rendering
   * https://gitlab.com/bkil/freedom-fighters/-/blob/master/hu/server/optimizing-web-proxy.md#szabad-proxy-p%C3%A9ld%C3%A1k
 
