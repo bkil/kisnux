@@ -18,6 +18,7 @@ Különféle licencű könyvek, tipikusan "szabadon másolható, de csak saját 
 * http://www.mek.iif.hu/
 * http://mek.oszk.hu/
 * https://budaorskonyvtar.hu/elektronikus-konyvtar/
+* https://archive.org/search.php?query=language%3A%28hungarian%29&page=2
 
 ## Kiwix
 
@@ -52,7 +53,6 @@ Tartalmak forrása:
 
 * https://download.geofabrik.de/europe/hungary.html
 * https://github.com/developmentseed/osm-seed
-* https://archive.org/search.php?query=language%3A%28hungarian%29&page=2
 
 ## Szoftverfordításhoz
 
@@ -97,6 +97,7 @@ Tipikusan rendelkeznek kötegelt exportálás funkcióval is.
 * https://meta.wikimedia.org/wiki/List_of_largest_wikis
 * https://wikiapiary.com/wiki/Main_Page
 * https://en.wikipedia.org/wiki/Wikipedia:Alternative_outlets
+* https://gitlab.com/bkil/freedom-fighters/-/blob/master/hu/content/hungarian-wiki-communities.md
 
 #### Hardver
 
