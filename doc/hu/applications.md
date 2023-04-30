@@ -167,7 +167,9 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 * Dillo
   - már nem fejlesztik, és fejlesztendő a Javascript/CSS
 * `links2 -g`
-  - TODO Javascript/CSS bár egyes klónokban elkezdték régen és ebben is volt Netscape 1.1
+  - fejlesztendő CSS
+  - 2.1pre28 verzió volt az utolsó ami tudott Netscape JavaScript 1.1 futtatást
+  - http://links.twibright.com/download/ChangeLog
 * hv3: CSS (2008) és opcionális régebbi JavaScript (ES3, 2009) támogatással
   - https://packages.debian.org/bullseye/hv3
 * https://github.com/CMB/edbrowse
