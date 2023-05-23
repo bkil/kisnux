@@ -125,7 +125,7 @@ Szempontok:
 #### KHTML alapú
 
 * https://github.com/KDE/khtml
-  - Ubuntu Focal és Debian Buster kiadásokig a Konqueror is ezt hasztálta
+  - Ubuntu Focal és Debian Buster kiadásokig a Konqueror is ezt használta
 
 #### Gecko alapú
 
@@ -162,10 +162,26 @@ Régebbi Gecko forkja takarékossági és biztonsági megfontolásokból.
 * https://github.com/SerenityOS/serenity/tree/master/Ladybird
   * https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
 
+#### gngr
+
+* https://github.com/gngrOrg/gngr
+* https://en.wikipedia.org/wiki/Rhino_(JavaScript_engine)
+
+> Based on The Lobo Project. jStyleParser: for parsing and analysing CSS, okhttp: support for cookies, SPDY.
+
+#### Web-K
+
+* https://github.com/Earnix/Web-K
+* https://en.wikipedia.org/wiki/Flying_Saucer_(library)
+* https://en.wikipedia.org/wiki/Nashorn_(JavaScript_engine)
+* https://github.com/flyingsaucerproject/flyingsaucer/blob/828de14f7991350d069ed858ba4ed7bf63490313/www/feature-list.html
+
+> Web-K is FlyingSaucer-based pure Java browser and Swing browser component. Nashorn JavaScript runtime, Canvas, es6-shim polyfill. Modified JSoup library provides support of HTML5 at parsing level.
+
 #### Kompromisszumos grafikus böngészők
 
 * Dillo
-  - már nem fejlesztik, és fejlesztendő a Javascript/CSS
+  - már nem fejlesztik, és fejlesztendő a JavaScript/CSS
 * `links2 -g`
   - fejlesztendő CSS
   - 2.1pre28 verzió volt az utolsó ami tudott Netscape JavaScript 1.1 futtatást
