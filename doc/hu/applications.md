@@ -121,6 +121,10 @@ Szempontok:
   - Kicsit szokatlan, billentyűzetes a vezérlése
   - `apt install surf`
   - libwebkit2gtk
+* https://github.com/atlas-engineer/nyxt/blob/master/documents/README.org
+  - Emacs, vi, CUA
+  - libwebkit2gtk
+  - beta: Blink
 
 #### KHTML alapú
 
