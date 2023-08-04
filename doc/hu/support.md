@@ -17,6 +17,9 @@
 * https://magyarlinux.hu/ Arch Linux az alapvetés, de főleg általános leírások
   * https://magyarchlinux.org/
 * https://infoalap.hu/letoltesek/
+* https://szit.hu/doku.php?id=oktatas:linux
+* https://www.linuxportal.info/
+* https://linuxlap.hu/
 
 ## Disztribúció független magyar közösségek
 
