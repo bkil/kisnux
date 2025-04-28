@@ -46,3 +46,4 @@ Főleg szórakoztató célra, lásd még:
 Lásd még:
 
 * https://gitlab.com/bkil/freedom-fighters/-/blob/master/hu/content/video.md
+* https://fmhy.net/edupiracyguide
